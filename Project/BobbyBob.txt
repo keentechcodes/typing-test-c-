@@ -1,0 +1,4 @@
+Bob
+Bobby
+123123
+This test result correct words : 16 Wrong words : 0 Accuracy : 100 Test Time : 13 Speed : 73 WPM
